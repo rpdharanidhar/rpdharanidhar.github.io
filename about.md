@@ -28,7 +28,7 @@ Infrastructure Associate At OCI
 
 **Platform profiles**
 <br>
-\> [Leetcode](https://leetcode.com//rpdharanidhar
+\> [Leetcode](https://leetcode.com//rpdharanidhar)
 <br>
 \> [Github](https://github.com/rpdharanidhar)
 
