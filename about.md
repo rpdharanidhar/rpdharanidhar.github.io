@@ -19,7 +19,7 @@ Hello peeps, I'm a BE - Computer Science Engineering student from <a href="https
 
 **Certificates**
 <br>
-Infrastructure Associate At OCI
+Infrastructure Associate at OCI
 <br>
 \> DevOps Associate at OCI
 <br>
