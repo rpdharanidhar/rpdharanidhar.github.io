@@ -6,7 +6,7 @@ excerpt: Hey Guys, it's me rpdharanidhar. DevOps Engineer and Enthusiast.
 comments: false
 ---
 
-Hello peeps, I'm a BE - Computer Science Engineering student from <a href="https://bitsathy.ac.in/">BIT</a>. I'm a DevOps Enthusiast having interest in Jenkins, Terraform, Ansible, Docker and INfrastructure Networking.
+Hello peeps, I'm a BE - Computer Science Engineering student from <a href="https://bitsathy.ac.in/">BIT</a>. I'm a DevOps Enthusiast having interest in Jenkins, Terraform, Ansible, Docker and Infrastructure Networking.
 
 
 *Download my Resume to get more information about my honor's and achievements*
